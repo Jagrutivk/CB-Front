@@ -1,0 +1,21 @@
+.expanded-row {
+  background-color: hwb(148deg 77.23% 3.15%);
+  block-size: 100px;
+}
+
+.deleteicon {
+  color: red;
+  size: 14;
+}
+
+/* .updownarrow {
+  color: black;
+  size: 10px;
+} */
+
+.editicon {
+  color: blue;
+  size: 15;
+}
+
+
